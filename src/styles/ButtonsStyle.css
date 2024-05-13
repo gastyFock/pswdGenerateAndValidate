@@ -1,0 +1,18 @@
+button {
+    border: 0;
+    outline: 0;
+    background: #019f55;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 300;
+    padding: 16px 26px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  div {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
